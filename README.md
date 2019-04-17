@@ -1,7 +1,7 @@
 # Unturned-Supply
 An exemple of Supply to make in Unity
 
-<h1><strong>-------<ins>Unturned Shirts</ins>-------</strong></h1>
+<h1><strong>-------<ins>Unturned Supply</ins>-------</strong></h1>
 
 ·Created By: <b>@SPYREX#6040</b>
 
